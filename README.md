@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Sartaj Pathan Banner" />
+<img src="./Neon%20Tech%20Journey%20Banner.png" width="100%" alt="Sartaj Pathan Banner" />
 
 <br/>
 
